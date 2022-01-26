@@ -1,0 +1,5 @@
+asgiref==3.5.0
+Django==4.0.1
+Pillow==8.4.0
+psycopg-binary==3.0.8
+sqlparse==0.4.2
